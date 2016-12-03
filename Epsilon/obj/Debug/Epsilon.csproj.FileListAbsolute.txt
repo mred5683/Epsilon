@@ -1,0 +1,6 @@
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\bin\Debug\Epsilon.exe.config
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\bin\Debug\Epsilon.exe
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\bin\Debug\Epsilon.pdb
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\obj\Debug\Epsilon.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\obj\Debug\Epsilon.exe
+C:\Programming\C# Programs\Personal\Epsilon\Epsilon\obj\Debug\Epsilon.pdb
